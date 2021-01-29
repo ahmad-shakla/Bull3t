@@ -34,7 +34,7 @@ _|_________         _________|_
        
 def install():
 
-        print("installing tools please wait...\n\n\")
+        print("installing tools please wait...\n\n")
         os.system("apt-get update")
         os.system("clear")
         os.system("apt-get install exiftool")
